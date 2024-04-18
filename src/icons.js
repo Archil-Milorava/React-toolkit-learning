@@ -46,3 +46,5 @@ export const ChevronUp = () => {
     </svg>
   );
 };
+
+export default CartIcon
